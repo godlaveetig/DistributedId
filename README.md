@@ -1,2 +1,2 @@
-# DistributedId
-This repository to discuss on Distributed Id mechanism
+# Distributed Id
+This repository to discuss on Distributed Id mechanism.
